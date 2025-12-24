@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "business_name": "Sunrise Bakery",
+    "sector": "Food Processing",
+    "location": "Mumbai",
+    "annual_turnover_lakhs": 50,
+    "employees": 12,
+    "challenges": ["Working capital", "Market competition", "Raw material cost"],
+    "loan_required": true,
+    "loan_amount_lakhs": 10
+  },
+  {
+    "id": 2,
+    "business_name": "Green Agro Farms",
+    "sector": "Agriculture",
+    "location": "Punjab",
+    "annual_turnover_lakhs": 120,
+    "employees": 25,
+    "challenges": ["Climate change", "Irrigation", "Storage facilities"],
+    "loan_required": true,
+    "loan_amount_lakhs": 25
+  },
+  {
+    "id": 3,
+    "business_name": "TechSolutions IT",
+    "sector": "Information Technology",
+    "location": "Bangalore",
+    "annual_turnover_lakhs": 300,
+    "employees": 15,
+    "challenges": ["Talent acquisition", "Client retention", "Infrastructure cost"],
+    "loan_required": false,
+    "loan_amount_lakhs": 0
+  },
+  {
+    "id": 4,
+    "business_name": "Handloom Weavers Co.",
+    "sector": "Textile",
+    "location": "Varanasi",
+    "annual_turnover_lakhs": 35,
+    "employees": 8,
+    "challenges": ["Market access", "Raw material", "Preservation of art"],
+    "loan_required": true,
+    "loan_amount_lakhs": 5
+  },
+  {
+    "id": 5,
+    "business_name": "MediCare Equipment",
+    "sector": "Healthcare",
+    "location": "Delhi",
+    "annual_turnover_lakhs": 200,
+    "employees": 30,
+    "challenges": ["Regulatory compliance", "Import duties", "Quality standards"],
+    "loan_required": true,
+    "loan_amount_lakhs": 50
+  }
+]
